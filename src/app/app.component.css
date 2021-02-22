@@ -1,0 +1,9 @@
+html{
+  filter: invert(1);
+}
+app-successalerts{
+  color: green;
+}
+app-warningalerts{
+  color: yellowgreen;
+}
